@@ -1,0 +1,10 @@
+Warna (a1),Tipe (a2),Asal (a3),Terlaris (a4)
+merah,Sport,Domestik,ya
+merah,Sport,Domestik,tidak
+kuning,Sport,Domestik,ya
+kuning,Sport,Domestik,tidak
+kuning,Sport,Import,ya
+kuning,SUV,Import,tidak
+kuning,SUV,Import,ya
+merah,SUV,Import,tidak
+merah,Sport,Import,ya
